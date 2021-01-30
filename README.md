@@ -2,6 +2,6 @@
 
 SETUP:
 
-Run "npm install" to install dependencies\n
-Make a ".env" file, and put all the stuff in ".env.example" into there.\n
+Run "npm install" to install dependencies,
+Make a ".env" file, and put all the stuff in ".env.example" into there, then
 Run "node index.js" to run the bot.
